@@ -19,9 +19,6 @@
     int b = 3;
     NSLog(@"%i",b);
     
-    int c = 0;
-    NSLog(@"%i",c);
-    
     return YES;
 }
 							
