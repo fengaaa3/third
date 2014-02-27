@@ -16,7 +16,6 @@
     int a = 2;
     NSLog(@"%i",a);
     
-    
     return YES;
 }
 							
